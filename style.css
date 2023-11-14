@@ -1,0 +1,26 @@
+canvas
+{
+    border: 10px ridge rgb(130, 120, 120);
+}
+
+h2
+{
+    size:27px;
+}
+
+button
+{
+
+    size:20px;
+    font-weight: bold;
+    margin-top: 500px;
+}
+
+.heading
+{
+    font-size:23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+}
+
